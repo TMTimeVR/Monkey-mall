@@ -1,3 +1,3 @@
 # Monkey-mall
 
-I'm using this to just upload images for my game "Monkey mall".
+A repository that houses audio and images for my game "Monkey Mall"
